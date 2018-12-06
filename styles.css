@@ -1,0 +1,13 @@
+
+@media (max-width: 768px) {
+    .row, .navbar {   
+        flex-direction: column;
+    }
+
+    }
+  
+@media (max-width: 640px) {
+  .img-joe {
+    width: 100%;
+  }
+}
